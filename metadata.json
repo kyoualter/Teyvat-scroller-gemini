@@ -1,0 +1,7 @@
+{
+  "name": "Teyvat Scholar: TTS & Chat Assistant",
+  "description": "An interactive document reader and learning assistant featuring characters inspired by Genshin Impact. Upload documents, listen to them in character voices, and chat with wise assistants to master any subject.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
